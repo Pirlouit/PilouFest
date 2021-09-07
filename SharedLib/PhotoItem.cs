@@ -6,7 +6,6 @@ namespace SharedLib
 {
     public class PhotoItem
     {
-        public long Id { get; set; }
         public long IdFromPlat { get; set; }
         public string PictureUrl { get; set; }
         public DateTime CreatedAt { get; set; }
